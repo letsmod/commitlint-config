@@ -33,3 +33,10 @@ npm install --save-dev @polyup/commitlint-config @commitlint/cli husky
   },
 ```
 
+### Maintainers
+
+The maintainer for PolyUp Commitlint Config is [Sergei Kolobov](https://github.com/skolobov)
+
+## License
+
+`@polyup/commitlint-config` is distributed under the [MIT license](LICENSE).
