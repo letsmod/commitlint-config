@@ -9,7 +9,7 @@ module.exports = {
   },
   "parserPreset": {
     "parserOpts": {
-      "issuePrefixes": [ "GBE-", "GWA-", "PRT-", "WRP-", ]
+      "issuePrefixes": [ "GBE-", "GWA-", "PRT-", "WRP-", "MOD-" ]
     }
   }
 };
